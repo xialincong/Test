@@ -4,6 +4,7 @@ class Test:
 
     def test(self):
         print("xlc")
+        pass
 
 
 my_test = Test("xlc")
